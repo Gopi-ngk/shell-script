@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PEERSON1=Akhil
+PERSON1=Akhil
 PERSON2=Nikhil
 
 echo "$PERSON1:: Hi $PERSON2"
