@@ -3,10 +3,10 @@
 
 echo "please enter your username::"
 
-read USERNAME
+read -s USERNAME
 echo "username you entered $USERNAME::"
 
 echo "enter your passwor::"
 
-read PASSWORD
+read -s PASSWORD
 echo "password you entered $PASSWORD::"
